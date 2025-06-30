@@ -35,6 +35,8 @@
 
 <!-- BACKGROUND -->
 
+---
+
 ## 🧑‍💻 Author
 
 **Amarjeet Kumar**  
@@ -49,6 +51,8 @@
 **GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
 **LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
 
+
+---
 
 ## Background
 
